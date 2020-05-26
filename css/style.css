@@ -1,13 +1,13 @@
 .row-header{
 
-margin: 0px auto;
-padding: 5px 0px 0px 0px;
-border: 1px ridge;
+margin: 5px auto;
+padding: 0px 0px 0px 0px;
+border: 1px ;
 }
 .row-content{
 margin: opx auto;
 padding: 0px auto;
-min-height: 400px;
+min-height: 200px;
 }
 .footer{
 margin: 0px auto;
@@ -26,4 +26,13 @@ color: whitesmoke;
     margin: 0px;
     color: aqua;
     font: 80%;
+}
+.card{
+    margin-left: 00px;
+    padding-left: 0px ;
+    padding-right: 0px;
+}
+.card .bg-primary{
+    margin-left: 00px;
+    background-color:yellow;
 }
