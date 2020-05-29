@@ -51,11 +51,20 @@ color: whitesmoke;
     min-height: 300px;
 }
 .carousel-caption{
-    text-decoration: rgb(0, 255, 13) ;
+    color: black;
     text-align: left;
     font-size: larger;
     font-weight: bold;
     font-family: cursive;
     margin-left:250px ;
     padding: 0px;
+}
+.modal{
+    color: black;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
 }
